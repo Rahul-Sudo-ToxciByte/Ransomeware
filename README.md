@@ -1,13 +1,13 @@
 # Ransomware 
-Let's Create a Ransomware for Fun an Learning.
+Let's Create a Ransomware for Fun and Learning.
 
 ## 📌 Tech Stack
-HTML , CSS, Python, Jupyter Notebook, Pickle, kaggle, Google Colab,
+HTML, CSS, Python, Jupyter Notebook, Pickle, kaggle, Google Colab,
 
 ## Some Glimpse 🤩 :
 <table>
  <tr>
-  <td><img src = "https://res.cloudinary.com/phantomping/image/upload/v1747295626/wwpj2q0t9dbdfhjuf3fn.jpg" width="500"></td>
+  <td><img src = "https://res.cloudinary.com/phantomping/image/upload/v1747317707/Github%20Project/qvn2tib1ktzkqmf54mrx.jpg" width="500"></td>
   <!-- <td><img src = "https://res.cloudinary.com/phantomping/image/upload/v1747293525/nalenbpupbhhfldrkn2w.png" width="500"></td> -->
  </tr>
 </table>
@@ -22,7 +22,7 @@ HTML , CSS, Python, Jupyter Notebook, Pickle, kaggle, Google Colab,
 
 <h2>📬 Contact</h2>
 
-If you want to contact me, you can reach me through below handles.
+If you'd like to contact me, please feel free to reach me through the handles below.
 
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/g-rahul-871002255/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
